@@ -38,8 +38,7 @@ Listed below is the structure of the project.
 ├── README.md
 ├── Rook.java
 ├── Side.java
-├── Tile.java
-└── README.md
+└── Tile.java
 
 ```
 ## Technologies
