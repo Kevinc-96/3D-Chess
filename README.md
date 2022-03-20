@@ -13,7 +13,7 @@ Source: https://github.com/Kevinc-96/Phresh/blob/main/README.md#general-info -->
 
 
 ## General Info
-3D-Chess is a 3D chess game that utilizes the Java GUI to render the game, play with your friends today! Imagine traversing the boards like walking up or down stairs, meaning that to move up or down 1 board, you must also appear on the tile that is either directly after or before the current tile you are on. If you want to move up two boards, the same stair case logic applies, but with 2 tiles instead. A piece can only traverse 2 boards if they can traverse 2 tiles or more normally.
+3D-Chess is a 3D chess game that utilizes the Java GUI to render the game, play with your friends today! Imagine traversing the boards like walking up or down a staircase, meaning that to move up or down 1 board, you must also appear on the tile that is either directly after or before the current tile you are on. If you want to move up two boards, the same stair case logic applies, but with 2 tiles instead. A piece can only traverse 2 boards if they can traverse 2 tiles or more normally.
 
 ## Contents
 Listed below is the structure of the project.
