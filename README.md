@@ -8,6 +8,7 @@ Source: https://github.com/Kevinc-96/Phresh/blob/main/README.md#general-info -->
 * [Contents](#contents)
 * [Technologies](#technologies)
 * [Setting up](#setting-up)
+* [Playing](#playing)
 * [Notes](#notes)
 
 
@@ -20,16 +21,25 @@ Listed below is the structure of the project.
 ```
  Main project folder: 
 ├── 3D-Chess.jar                
-├── index.html                  # the landing HTML file, the first file user's will see when entering our app
-├── main.html                   # the main page of our app
+├── Bishop.java              
+├── Board.java              
+├── ChessBoard.java
+├── ChessBoard3D.java
+├── Game.java                 # the main class of the game
+├── Games.java
+├── Graveyard.java
+├── King.java
+├── Knight.java
+├── Pawn.java
+├── Piece.java
+├── PieceType.java
+├── Player.java
+├── Queen.java
 ├── README.md
-├── .firebaserc
-├── 404.html
-├── chat.html
-├── friends.html
-├── messages.html
-├── storage.rules
-└── profile.html 
+├── Rook.java
+├── Side.java
+├── Tile.java
+└── README.md
 
 ```
 ## Technologies
@@ -51,6 +61,11 @@ How to set up a development environment on Windows.
     * Create a folder on your computer to store our project files.
     * Head over to our GitHub repo and clone the master repo via "git clone https://github.com/Kevinc-96/3D-Chess"
     * Create your own branch, and start coding away!
+
+## Playing
+There are two ways to run the game:
+1. Compile game.java and then run the file.
+2. Run the jar file: 3D-Chess.jar.
 
 ## Notes
 The 3D moves work fully for the Queen and Pawn pieces. Other pieces are capable of 3D movement, but their functionality is incomplete. As a result, they may be able to perform illegal moves when traversing boards. 
