@@ -71,5 +71,4 @@ There are two ways to run the game:
 The 3D moves work fully for the Queen and Pawn pieces. Other pieces are capable of 3D movement, but their functionality is incomplete. As a result, they may be able to perform illegal moves when traversing boards. 
 
 Regular chess can be played as normal, as all of the pieces are fully functional on a single board.
-
 ```
